@@ -1,3 +1,3 @@
-### IOT_DOG_MONITOR
+### Dog Monitor - IoT
 Final IoT - HIT Project
 Authors: Snir Taub & Nir Aizen
